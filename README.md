@@ -31,7 +31,7 @@ Feel free to contact me if you have any questions or ideas for collaboration!
 
 -   **[STORM LIFE](https://discord.gg/hvsJhMBVtc)** : My GTA FIVEM RP Server currently in development.
 -   **[STORM HEBERG](https://discord.gg/ZhxUtG6uxN)** : My hosting service (currently on pause).
--   **[MEGABOT](https://github.com/Megabot-dev/Megabot)** : My personal Discord bot.
+-   **[MEGABOT](https://discord.gg/7uaFH7S7hg)** : My personal Discord bot.
 
 ---
 
